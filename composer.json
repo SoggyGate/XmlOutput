@@ -1,10 +1,10 @@
 {
-  "name": "SoggyGate/xmlOutput",
+  "name": "soggy-gate/xmloutput",
   "type": "library",
   "description": "test",
   "autoload": {
     "psr-4": {
-            "SoggyGate\\xmlOutput\\": "src/"
+            "soggy-gate\\xmloutput\\": "src/"
         }
   }
 }

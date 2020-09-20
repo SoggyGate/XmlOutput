@@ -3,8 +3,8 @@
   "type": "library",
   "description": "test",
   "autoload": {
-    "files": [
-      "test.php"
-    ]
+    "psr-4": {
+            "SoggyGate\\xmlOutput\\": "src/"
+        }
   }
 }

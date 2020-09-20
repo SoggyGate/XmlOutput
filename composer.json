@@ -1,0 +1,10 @@
+{
+  "name": "SoggyGate/xmlOutput",
+  "type": "library",
+  "description": "test",
+  "autoload": {
+    "files": [
+      "test.php"
+    ]
+  }
+}

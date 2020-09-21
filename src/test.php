@@ -1,4 +1,6 @@
-namespace SoggyGate\xmlOutput;
+<?php
+
+namespace SoggyGate\XmlOutput;
 
 class Hello
 {
@@ -7,3 +9,5 @@ class Hello
         return $toSay;
     }
 }
+
+?>

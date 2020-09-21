@@ -2,7 +2,7 @@
 
 namespace SoggyGate\XmlOutput;
 
-class Hello
+class Test
 {
     public function say($toSay = "Nothing given")
     {

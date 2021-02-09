@@ -4,8 +4,7 @@
   "description": "test",
   "autoload": {
     "psr-4": {
-            "soggygate\\xmloutput\\": "src/XmlOutput"
-            "SoggyGate\\XmlOutput\\": "src/XmlOutput"
+            "SoggyGate\\XmlOutput\\": "src/"
         }
   }
 }

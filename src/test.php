@@ -8,6 +8,10 @@ class Test
     {
         return $toSay;
     }
+	
+	private function test2() {
+		
+	}
 }
 
 ?>
